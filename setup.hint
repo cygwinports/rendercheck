@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXrender1
-sdesc: "Xorg Xrender test utility"
-ldesc: "Xorg Xrender test utility"
+sdesc: "X.Org Xrender test utility"
+ldesc: "X.Org Xrender test utility"
