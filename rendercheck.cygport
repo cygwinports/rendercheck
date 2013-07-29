@@ -1,0 +1,9 @@
+inherit xorg
+
+NAME="rendercheck"
+VERSION=1.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X Render extension test utility"
+DESCRIPTION="rendercheck is a set of simple tests of the X Render extension.
+It is designed for authors of Render implementations in X Servers."

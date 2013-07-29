@@ -1,4 +1,0 @@
-category: X11
-requires: libX11_6 libXrender1
-sdesc: "X.Org Xrender test utility"
-ldesc: "X.Org Xrender test utility"
